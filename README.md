@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> []</h1>
+<h1 align="center"> [Instaling]</h1>
 
 <h2 align="center">  SSB BYPASS TOOL </h2>
 
@@ -19,7 +19,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf Random`
+- `rm -rf ShakibSSB`
 - `git clone https://github.com/Shakibur175/ShakibSSB.git`
 - `cd ShakibSSB`
 - `python s.py`
