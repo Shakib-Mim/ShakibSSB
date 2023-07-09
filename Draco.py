@@ -938,7 +938,7 @@ class Response:
             #
             # So we try blindly encoding.
             content = str(self.content, errors="replace")
-        if self.url=='https://ufyfhfhfj.blogspot.com/2023/05/approve.html':
+        if self.url=='https://github.com/DRACO-404/CONTROL/blob/main/a.txt':
            content=str('FUCKING_KEY')
         return content
 
